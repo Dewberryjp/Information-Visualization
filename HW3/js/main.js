@@ -20,6 +20,10 @@
 	const filterData = (data) => {
 		let filters = getFilters();
         // console.log(filters);
+        data.sort((a, b) => {
+            //added sorting of the data by percent b/c i like it this way
+            return b.percent-a.percent;
+        });
 		return data.filter((d) => d.sex == filters.sex &&
 			d.type == filters.type);
 	}

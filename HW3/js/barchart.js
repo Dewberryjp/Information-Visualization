@@ -78,7 +78,8 @@ class barchart {
         barEnter.merge(bars).transition()
         .duration(500)
             .attr('width', d => vis.xScale(vis.config.xAxisVal(d)))
-            .attr('height', vis.yScale.bandwidth())
+            .attr('height', vis.yScale.bandwidth()).transition()
+            .duration(500)
             .attr('y', d => vis.yScale(vis.config.yAxisVal(d)))
             
         bars.exit().remove();
