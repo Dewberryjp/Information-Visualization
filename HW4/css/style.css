@@ -1,0 +1,14 @@
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+#tooltip {
+  position: absolute;
+  display: none;
+  /* ... other tooltip styles ... */
+}
+
+#radius-value {
+  width: 30px;
+  display: inline-block;
+}
