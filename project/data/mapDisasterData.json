@@ -1,0 +1,1064 @@
+{
+   "ALB": {
+      "flood": 74,
+      "earthquake": 5,
+      "storm": 12
+   },
+   "AGO": {
+      "flood": 95
+   },
+   "BGD": {
+      "flood": 281,
+      "storm": 284,
+      "earthquake": 9
+   },
+   "BEL": {
+      "flood": 27,
+      "storm": 18,
+      "earthquake": 1
+   },
+   "BOL": {
+      "flood": 173,
+      "storm": 6,
+      "earthquake": 2
+   },
+   "BIH": {
+      "flood": 68,
+      "storm": 3
+   },
+   "BRA": {
+      "flood": 382,
+      "storm": 24,
+      "earthquake": 3
+   },
+   "CAN": {
+      "flood": 76,
+      "storm": 48
+   },
+   "CHL": {
+      "earthquake": 51,
+      "flood": 85,
+      "storm": 10
+   },
+   "ETH": {
+      "flood": 89,
+      "earthquake": 2
+   },
+   "FRA": {
+      "flood": 79,
+      "storm": 96,
+      "earthquake": 1
+   },
+   "GRC": {
+      "flood": 72,
+      "storm": 6,
+      "earthquake": 35
+   },
+   "HTI": {
+      "flood": 88,
+      "earthquake": 6,
+      "storm": 105
+   },
+   "MOZ": {
+      "flood": 153,
+      "storm": 42,
+      "earthquake": 4
+   },
+   "MMR": {
+      "flood": 46,
+      "earthquake": 13,
+      "storm": 20
+   },
+   "NPL": {
+      "flood": 255,
+      "earthquake": 7,
+      "storm": 2
+   },
+   "PAK": {
+      "flood": 254,
+      "storm": 27,
+      "earthquake": 38
+   },
+   "PER": {
+      "flood": 297,
+      "earthquake": 76,
+      "storm": 23
+   },
+   "PHL": {
+      "flood": 746,
+      "storm": 1876,
+      "earthquake": 61
+   },
+   "RWA": {
+      "flood": 46,
+      "earthquake": 3,
+      "storm": 10,
+      "landslide": 1
+   },
+   "ZAF": {
+      "flood": 53,
+      "storm": 38,
+      "earthquake": 4
+   },
+   "TZA": {
+      "flood": 80,
+      "earthquake": 9,
+      "storm": 3
+   },
+   "ITA": {
+      "flood": 123,
+      "earthquake": 58,
+      "storm": 48
+   },
+   "NEP": {
+      "flood": 130,
+      "extreme temperature ": 2,
+      "landslide": 8
+   },
+   "PHI": {
+      "storm": 250,
+      "flood": 98,
+      "earthquake": 9
+   },
+   "TAZ": {
+      "storm": 3,
+      "flood": 51,
+      "earthquake": 3
+   },
+   "ETM": {
+      "flood": 19
+   },
+   "UKG": {
+      "flood": 13,
+      "storm": 10
+   },
+   "VIE": {
+      "storm": 71,
+      "flood": 130
+   },
+   "BNG": {
+      "storm": 51,
+      "flood": 92,
+      "earthquake": 17
+   },
+   "NA": {
+      "flood": 48,
+      "storm": 194,
+      "earthquake": 5
+   },
+   "CHN": {
+      "flood": 926,
+      "storm": 604,
+      "earthquake": 200,
+      "landslide": 1
+   },
+   "GUI": {
+      "flood": 20
+   },
+   "HAI": {
+      "flood": 37,
+      "storm": 24,
+      "earthquake": 3
+   },
+   "MZM": {
+      "flood": 69,
+      "storm": 14
+   },
+   "IVO": {
+      "flood": 8
+   },
+   "ETI": {
+      "flood": 16
+   },
+   "FRN": {
+      "storm": 19,
+      "flood": 22
+   },
+   "GMY": {
+      "flood": 8,
+      "storm": 14
+   },
+   "IND": {
+      "flood": 1172,
+      "storm": 391,
+      "earthquake": 93,
+      "drought": 2
+   },
+   "INS": {
+      "flood": 172,
+      "earthquake": 27,
+      "storm": 8
+   },
+   "AUS": {
+      "storm": 98,
+      "earthquake": 3,
+      "flood": 271
+   },
+   "MAG": {
+      "storm": 31,
+      "drought": 1,
+      "flood": 5
+   },
+   "MLI": {
+      "flood": 84
+   },
+   "MYA": {
+      "flood": 69,
+      "storm": 11,
+      "earthquake": 4
+   },
+   "NIR": {
+      "flood": 68
+   },
+   "POL": {
+      "storm": 17,
+      "flood": 34,
+      "earthquake": 1
+   },
+   "SEN": {
+      "flood": 64,
+      "storm": 7
+   },
+   "SAF": {
+      "storm": 14,
+      "flood": 14,
+      "earthquake": 1
+   },
+   "UGA": {
+      "flood": 89,
+      "earthquake": 7,
+      "landslide": 1,
+      "storm": 4
+   },
+   "BFO": {
+      "flood": 36
+   },
+   "BOS": {
+      "flood": 8,
+      "storm": 2
+   },
+   "CAM": {
+      "flood": 13
+   },
+   "AFG": {
+      "flood": 261,
+      "earthquake": 76,
+      "storm": 29
+   },
+   "DZA": {
+      "flood": 178,
+      "earthquake": 30,
+      "storm": 7
+   },
+   "ARG": {
+      "flood": 226,
+      "earthquake": 5,
+      "storm": 30
+   },
+   "AUT": {
+      "storm": 10,
+      "flood": 28,
+      "earthquake": 1
+   },
+   "AZE": {
+      "flood": 46,
+      "earthquake": 11
+   },
+   "BLR": {
+      "flood": 20,
+      "storm": 14
+   },
+   "BEN": {
+      "flood": 77,
+      "storm": 1
+   },
+   "BWA": {
+      "flood": 15,
+      "storm": 1
+   },
+   "BGR": {
+      "flood": 104,
+      "earthquake": 5,
+      "storm": 12
+   },
+   "BFA": {
+      "flood": 47
+   },
+   "BDI": {
+      "flood": 41,
+      "storm": 5,
+      "earthquake": 1
+   },
+   "KHM": {
+      "flood": 102
+   },
+   "CMR": {
+      "flood": 24
+   },
+   "CAF": {
+      "flood": 24,
+      "storm": 14
+   },
+   "TCD": {
+      "flood": 50,
+      "storm": 3
+   },
+   "COL": {
+      "earthquake": 44,
+      "storm": 14,
+      "flood": 391
+   },
+   "CRI": {
+      "flood": 113,
+      "earthquake": 22,
+      "storm": 11
+   },
+   "HRV": {
+      "earthquake": 2,
+      "flood": 25
+   },
+   "CUB": {
+      "storm": 118,
+      "flood": 59,
+      "earthquake": 1
+   },
+   "CZE": {
+      "flood": 30,
+      "storm": 1
+   },
+   "ECU": {
+      "flood": 151,
+      "earthquake": 17
+   },
+   "EGY": {
+      "flood": 24,
+      "storm": 13,
+      "earthquake": 4
+   },
+   "SLV": {
+      "earthquake": 27,
+      "flood": 31,
+      "storm": 24
+   },
+   "ERI": {
+      "flood": 2,
+      "storm": 1
+   },
+   "FJI": {
+      "storm": 74,
+      "flood": 26,
+      "earthquake": 1
+   },
+   "GEO": {
+      "flood": 37,
+      "earthquake": 8,
+      "storm": 4
+   },
+   "DEU": {
+      "earthquake": 5,
+      "flood": 47,
+      "storm": 51
+   },
+   "GHA": {
+      "flood": 74,
+      "storm": 1
+   },
+   "GTM": {
+      "earthquake": 33,
+      "flood": 73,
+      "storm": 43
+   },
+   "GIN": {
+      "flood": 13,
+      "earthquake": 1,
+      "storm": 1
+   },
+   "HND": {
+      "storm": 45,
+      "flood": 72,
+      "earthquake": 19
+   },
+   "IDN": {
+      "earthquake": 173,
+      "flood": 491,
+      "storm": 19
+   },
+   "IRN": {
+      "flood": 227,
+      "earthquake": 151,
+      "storm": 38
+   },
+   "IRQ": {
+      "flood": 24,
+      "earthquake": 6
+   },
+   "JPN": {
+      "earthquake": 69,
+      "storm": 252,
+      "flood": 90
+   },
+   "KAZ": {
+      "flood": 30,
+      "earthquake": 1
+   },
+   "KEN": {
+      "flood": 276,
+      "earthquake": 2
+   },
+   "PRK": {
+      "flood": 93,
+      "storm": 20
+   },
+   "KOR": {
+      "flood": 73,
+      "storm": 25
+   },
+   "KGZ": {
+      "earthquake": 13,
+      "flood": 16
+   },
+   "LAO": {
+      "flood": 91,
+      "storm": 6
+   },
+   "LBN": {
+      "storm": 2,
+      "flood": 1
+   },
+   "LBR": {
+      "flood": 10
+   },
+   "LTU": {
+      "flood": 5
+   },
+   "MDG": {
+      "storm": 106,
+      "flood": 13
+   },
+   "MYS": {
+      "storm": 5,
+      "flood": 126,
+      "earthquake": 2
+   },
+   "MRT": {
+      "flood": 38
+   },
+   "MEX": {
+      "flood": 153,
+      "earthquake": 54,
+      "storm": 78
+   },
+   "MNG": {
+      "flood": 16,
+      "storm": 2
+   },
+   "MAR": {
+      "flood": 75,
+      "earthquake": 5
+   },
+   "NAM": {
+      "flood": 51
+   },
+   "NLD": {
+      "storm": 3,
+      "earthquake": 1,
+      "flood": 3
+   },
+   "NZL": {
+      "flood": 51,
+      "earthquake": 10,
+      "storm": 5
+   },
+   "NIC": {
+      "storm": 26,
+      "flood": 69,
+      "earthquake": 3
+   },
+   "NER": {
+      "flood": 50,
+      "storm": 1
+   },
+   "NGA": {
+      "flood": 122,
+      "storm": 2
+   },
+   "PAN": {
+      "storm": 13,
+      "earthquake": 7,
+      "flood": 90
+   },
+   "PNG": {
+      "flood": 34,
+      "earthquake": 16,
+      "storm": 4
+   },
+   "PRY": {
+      "storm": 30,
+      "flood": 26
+   },
+   "PRT": {
+      "flood": 32,
+      "storm": 6
+   },
+   "ROU": {
+      "earthquake": 6,
+      "flood": 205,
+      "storm": 19
+   },
+   "RUS": {
+      "earthquake": 17,
+      "flood": 171,
+      "storm": 45
+   },
+   "SRB": {
+      "flood": 53,
+      "earthquake": 7
+   },
+   "SLE": {
+      "flood": 4
+   },
+   "SVK": {
+      "flood": 16,
+      "storm": 2
+   },
+   "SVN": {
+      "earthquake": 7,
+      "storm": 4,
+      "flood": 5
+   },
+   "SLB": {
+      "earthquake": 12,
+      "storm": 23,
+      "flood": 16
+   },
+   "SOM": {
+      "flood": 89,
+      "earthquake": 5,
+      "storm": 8
+   },
+   "UZB": {
+      "earthquake": 5,
+      "flood": 2
+   },
+   "ESP": {
+      "flood": 50,
+      "storm": 21,
+      "earthquake": 2
+   },
+   "LKA": {
+      "flood": 290,
+      "storm": 15,
+      "earthquake": 14
+   },
+   "SDN": {
+      "flood": 169,
+      "storm": 1,
+      "earthquake": 2
+   },
+   "SUR": {
+      "flood": 15
+   },
+   "SWE": {
+      "flood": 3
+   },
+   "CHE": {
+      "flood": 8,
+      "storm": 4
+   },
+   "TWN": {
+      "flood": 14,
+      "storm": 32,
+      "earthquake": 7
+   },
+   "TJK": {
+      "flood": 85,
+      "earthquake": 15
+   },
+   "THA": {
+      "flood": 474,
+      "storm": 66,
+      "earthquake": 23
+   },
+   "TLS": {
+      "flood": 10,
+      "storm": 1
+   },
+   "TGO": {
+      "flood": 13
+   },
+   "TUR": {
+      "earthquake": 97,
+      "flood": 78,
+      "storm": 92
+   },
+   "UKR": {
+      "flood": 54,
+      "storm": 19
+   },
+   "GBR": {
+      "earthquake": 4,
+      "flood": 215,
+      "storm": 21
+   },
+   "USA": {
+      "flood": 683,
+      "storm": 2430,
+      "earthquake": 32
+   },
+   "VEN": {
+      "flood": 93,
+      "earthquake": 9,
+      "storm": 3
+   },
+   "YEM": {
+      "flood": 79,
+      "storm": 16,
+      "earthquake": 2
+   },
+   "COD": {
+      "flood": 19,
+      "earthquake": 2,
+      "storm": 4
+   },
+   "ZMB": {
+      "flood": 45
+   },
+   "ZWE": {
+      "flood": 20,
+      "storm": 2
+   },
+   "VNM": {
+      "storm": 298,
+      "flood": 293
+   },
+   "AUL": {
+      "storm": 69,
+      "flood": 28
+   },
+   "NIG": {
+      "flood": 70,
+      "storm": 11
+   },
+   "SUD": {
+      "flood": 5
+   },
+   "POR": {
+      "earthquake": 4,
+      "flood": 4,
+      "storm": 3
+   },
+   "TAJ": {
+      "flood": 23,
+      "earthquake": 5
+   },
+   "THI": {
+      "flood": 142,
+      "storm": 15
+   },
+   "TOG": {
+      "flood": 22
+   },
+   "ZAI": {
+      "storm": 2,
+      "flood": 15,
+      "earthquake": 3
+   },
+   "ZAM": {
+      "flood": 26
+   },
+   "ZIM": {
+      "flood": 14,
+      "storm": 45
+   },
+   "BOT": {
+      "flood": 20
+   },
+   "ALG": {
+      "storm": 6,
+      "flood": 8
+   },
+   "SPN": {
+      "storm": 4,
+      "flood": 20
+   },
+   "CHA": {
+      "flood": 1
+   },
+   "ANG": {
+      "flood": 46
+   },
+   "CRO": {
+      "storm": 8,
+      "flood": 5
+   },
+   "HON": {
+      "flood": 59,
+      "storm": 15
+   },
+   "KZK": {
+      "flood": 22
+   },
+   "LEB": {
+      "flood": 2,
+      "storm": 7
+   },
+   "MAW": {
+      "flood": 69,
+      "storm": 1
+   },
+   "MAL": {
+      "flood": 76,
+      "storm": 4
+   },
+   "MON": {
+      "storm": 67,
+      "flood": 11
+   },
+   "COS": {
+      "storm": 10,
+      "flood": 5
+   },
+   "DOM": {
+      "flood": 75,
+      "storm": 62
+   },
+   "SAL": {
+      "earthquake": 2,
+      "flood": 26,
+      "storm": 2
+   },
+   "GUA": {
+      "flood": 42,
+      "storm": 4,
+      "earthquake": 5
+   },
+   "GNB": {
+      "storm": 7,
+      "flood": 4
+   },
+   "GUY": {
+      "flood": 27
+   },
+   "HUN": {
+      "storm": 5,
+      "flood": 23,
+      "earthquake": 1
+   },
+   "ROK": {
+      "storm": 7,
+      "earthquake": 2,
+      "flood": 4
+   },
+   "KYR": {
+      "earthquake": 7,
+      "storm": 2
+   },
+   "MAA": {
+      "storm": 2,
+      "flood": 8
+   },
+   "NTH": {
+      "storm": 4
+   },
+   "NEW": {
+      "earthquake": 2,
+      "flood": 14,
+      "storm": 10
+   },
+   "OMA": {
+      "flood": 6,
+      "storm": 5
+   },
+   "RUM": {
+      "flood": 30,
+      "storm": 12
+   },
+   "KOS": {
+      "flood": 3
+   },
+   "SER": {
+      "flood": 5
+   },
+   "SLO": {
+      "storm": 2
+   },
+   "SSU": {
+      "flood": 5
+   },
+   "SWZ": {
+      "storm": 12,
+      "": 1,
+      "flood": 10
+   },
+   "TAW": {
+      "flood": 9,
+      "earthquake": 3,
+      "storm": 5
+   },
+   "UAE": {
+      "flood": 3
+   },
+   "CEN": {
+      "storm": 10,
+      "flood": 7
+   },
+   "PAR": {
+      "flood": 32
+   },
+   "SIE": {
+      "flood": 6
+   },
+   "BUL": {
+      "flood": 16,
+      "storm": 8
+   },
+   "BUI": {
+      "flood": 20,
+      "storm": 1
+   },
+   "YGS": {
+      "flood": 5,
+      "storm": 5,
+      "extreme temperature ": 2
+   },
+   "CAO": {
+      "flood": 5,
+      "landslide": 1
+   },
+   "ATG": {
+      "storm": 7
+   },
+   "ARM": {
+      "flood": 7,
+      "earthquake": 3,
+      "storm": 2
+   },
+   "BHS": {
+      "storm": 92,
+      "flood": 1
+   },
+   "BRB": {
+      "flood": 11,
+      "earthquake": 1,
+      "storm": 5
+   },
+   "BLZ": {
+      "storm": 14,
+      "flood": 4
+   },
+   "BTN": {
+      "flood": 3,
+      "earthquake": 4
+   },
+   "CPV": {
+      "storm": 13
+   },
+   "COM": {
+      "flood": 6
+   },
+   "COG": {
+      "flood": 10,
+      "earthquake": 1
+   },
+   "CIV": {
+      "flood": 7
+   },
+   "DJI": {
+      "flood": 9
+   },
+   "FIN": {
+      "flood": 1
+   },
+   "GAB": {
+      "storm": 7,
+      "flood": 4
+   },
+   "GMB": {
+      "flood": 7,
+      "storm": 5
+   },
+   "GRD": {
+      "storm": 5
+   },
+   "ISL": {
+      "earthquake": 4,
+      "flood": 1
+   },
+   "IRL": {
+      "flood": 19,
+      "storm": 3
+   },
+   "ISR": {
+      "flood": 4,
+      "storm": 8
+   },
+   "JAM": {
+      "flood": 36,
+      "storm": 10
+   },
+   "JOR": {
+      "flood": 7
+   },
+   "KWT": {
+      "flood": 1
+   },
+   "LSO": {
+      "flood": 7
+   },
+   "LBY": {
+      "flood": 2
+   },
+   "MKD": {
+      "flood": 73,
+      "earthquake": 37
+   },
+   "MWI": {
+      "earthquake": 3,
+      "flood": 111
+   },
+   "MUS": {
+      "flood": 1,
+      "storm": 1
+   },
+   "MDA": {
+      "flood": 30,
+      "storm": 1
+   },
+   "MNE": {
+      "flood": 57,
+      "earthquake": 1
+   },
+   "NOR": {
+      "flood": 5
+   },
+   "PRI": {
+      "flood": 15,
+      "storm": 4
+   },
+   "240": {
+      "storm": 1,
+      "flood": 1
+   },
+   "WSM": {
+      "storm": 61,
+      "flood": 2
+   },
+   "SAU": {
+      "flood": 43,
+      "storm": 1
+   },
+   "SYC": {
+      "flood": 32,
+      "storm": 29,
+      "earthquake": 16
+   },
+   "TKM": {
+      "earthquake": 2
+   },
+   "SYR": {
+      "flood": 5,
+      "storm": 1
+   },
+   "TTO": {
+      "flood": 1
+   },
+   "TUN": {
+      "flood": 67
+   },
+   "TUV": {
+      "storm": 16
+   },
+   "URY": {
+      "flood": 44,
+      "storm": 12
+   },
+   "VUT": {
+      "storm": 43,
+      "earthquake": 8,
+      "flood": 2
+   },
+   "SSD": {
+      "flood": 8
+   },
+   "LCA": {
+      "storm": 1,
+      "earthquake": 3,
+      "flood": 5
+   },
+   "VCT": {
+      "flood": 6,
+      "storm": 1
+   },
+   "EST": {
+      "storm": 1
+   },
+   "PLW": {
+      "storm": 2
+   },
+   "PKS": {
+      "flood": 4
+   },
+   "SOL": {
+      "storm": 5,
+      "earthquake": 3
+   },
+   "SRI": {
+      "flood": 46,
+      "storm": 7
+   },
+   "SWA": {
+      "flood": 4
+   },
+   "URU": {
+      "flood": 45
+   },
+   "CAP": {
+      "flood": 2
+   },
+   "CON": {
+      "flood": 2
+   },
+   "CZR": {
+      "storm": 3
+   },
+   "GAM": {
+      "flood": 2
+   },
+   "GRG": {
+      "storm": 1,
+      "flood": 1
+   },
+   "IRE": {
+      "storm": 10,
+      "flood": 1
+   },
+   "LES": {
+      "flood": 1,
+      "storm": 2
+   },
+   "LIB": {
+      "flood": 1
+   },
+   "MAC": {
+      "flood": 7,
+      "earthquake": 1
+   },
+   "MAS": {
+      "storm": 9
+   },
+   "MLD": {
+      "flood": 2
+   },
+   "MOR": {
+      "flood": 4
+   },
+   "TRI": {
+      "flood": 4
+   },
+   "QAT": {
+      "flood": 1
+   },
+   "YPR": {
+      "flood": 1
+   }
+}
