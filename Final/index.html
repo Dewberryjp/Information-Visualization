@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>D3 Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+<div class="tab">
+    <button class="tablinks" id = 'start' onclick="openVisualization(event, 'Home')">Chloropleth Map</button>
+    <button class="tablinks" onclick="openVisualization(event, 'other_tab')">Stacked Bar Chart</button>
+    <button class="tablinks" onclick="openVisualization(event, 'other2_tab')">Dual Line Chart</button>
+  </div>
+
+<div id="Home" class="tabcontent"></div>
+<script src="https://d3js.org/d3.v7.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+<script>
+    document.getElementById("start").className += " active";
+    $("#Home").load("ProjectParts/Josh/CMap/index.html"); 
+    document.getElementById('Home').style.display = "block";
+    function openVisualization(evt, visualization) {
+    // Declare all variables
+        var i, tabcontent, tablinks;
+        switch (visualization) {
+        case "Home":
+        //     $(function(){
+                $("#Home").load("ProjectParts/Josh/CMap/index.html"); 
+            // });
+          break;
+        case "other_tab":
+                $("#Home").load("ProjectParts/Josh/StackedBar/index.html"); 
+
+            break;
+        case "other2_tab":
+                $("#Home").load("ProjectParts/Drake/main.html"); 
+            break;
+      }
+        // Get all elements with class="tabcontent" and hide them
+
+        // Get all elements with class="tablinks" and remove the class "active"
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+
+        // Show the current tab, and add an "active" class to the button that opened the tab
+
+        evt.currentTarget.className += " active";
+    } 
+    
+</script>
+</html>

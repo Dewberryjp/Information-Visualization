@@ -1,0 +1,22 @@
+title {
+    text-align: center;
+    color: red
+}
+.round_corners:hover {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    opacity: 1;
+  }
+svg {
+    
+    display: block;
+    margin: auto;
+}
+#center {
+    margin: 0 auto;
+    width: 100%;
+
+  }

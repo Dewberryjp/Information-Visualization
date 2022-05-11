@@ -1,0 +1,1944 @@
+{
+   "ALB": {
+      "total": 91,
+      "flood": 74,
+      "id": "ALB",
+      "earthquake": 5,
+      "storm": 12,
+      "co2": 270.694
+   },
+   "AGO": {
+      "total": 95,
+      "flood": 95,
+      "id": "AGO",
+      "co2": 678.1469999999998
+   },
+   "BGD": {
+      "total": 574,
+      "flood": 281,
+      "id": "BGD",
+      "storm": 284,
+      "earthquake": 9,
+      "co2": 1547.1340000000002
+   },
+   "BEL": {
+      "total": 46,
+      "flood": 27,
+      "id": "BEL",
+      "storm": 18,
+      "earthquake": 1,
+      "co2": 7038.6799999999985
+   },
+   "BOL": {
+      "total": 181,
+      "flood": 173,
+      "id": "BOL",
+      "storm": 6,
+      "earthquake": 2,
+      "co2": 520.325
+   },
+   "BIH": {
+      "total": 71,
+      "flood": 68,
+      "id": "BIH",
+      "storm": 3,
+      "co2": 882.412
+   },
+   "BRA": {
+      "total": 409,
+      "flood": 382,
+      "id": "BRA",
+      "storm": 24,
+      "earthquake": 3,
+      "co2": 15697.232999999995
+   },
+   "CAN": {
+      "total": 124,
+      "flood": 76,
+      "id": "CAN",
+      "storm": 48,
+      "co2": 27516.136
+   },
+   "CHL": {
+      "total": 146,
+      "earthquake": 51,
+      "id": "CHL",
+      "flood": 85,
+      "storm": 10,
+      "co2": 2597.4339999999997
+   },
+   "ETH": {
+      "total": 91,
+      "flood": 89,
+      "id": "ETH",
+      "earthquake": 2,
+      "co2": 256.38300000000004
+   },
+   "FRA": {
+      "total": 176,
+      "flood": 79,
+      "id": "FRA",
+      "storm": 96,
+      "earthquake": 1,
+      "co2": 24632.318999999996
+   },
+   "GRC": {
+      "total": 113,
+      "flood": 72,
+      "id": "GRC",
+      "storm": 6,
+      "earthquake": 35,
+      "co2": 3957.4670000000006
+   },
+   "HTI": {
+      "total": 199,
+      "flood": 88,
+      "id": "HTI",
+      "earthquake": 6,
+      "storm": 105,
+      "co2": 74.14
+   },
+   "MOZ": {
+      "total": 199,
+      "flood": 153,
+      "id": "MOZ",
+      "storm": 42,
+      "earthquake": 4,
+      "co2": 162.59599999999998
+   },
+   "MMR": {
+      "total": 79,
+      "flood": 46,
+      "id": "MMR",
+      "earthquake": 13,
+      "storm": 20,
+      "co2": 549.884
+   },
+   "NPL": {
+      "total": 264,
+      "flood": 255,
+      "id": "NPL",
+      "earthquake": 7,
+      "storm": 2,
+      "co2": 165.448
+   },
+   "PAK": {
+      "total": 319,
+      "flood": 254,
+      "id": "PAK",
+      "storm": 27,
+      "earthquake": 38,
+      "co2": 5080.482
+   },
+   "PER": {
+      "total": 396,
+      "flood": 297,
+      "id": "PER",
+      "earthquake": 76,
+      "storm": 23,
+      "co2": 1692.47
+   },
+   "PHL": {
+      "total": 2683,
+      "flood": 746,
+      "id": "PHL",
+      "storm": 1876,
+      "earthquake": 61,
+      "co2": 3332.1189999999997
+   },
+   "RWA": {
+      "total": 60,
+      "flood": 46,
+      "id": "RWA",
+      "earthquake": 3,
+      "storm": 10,
+      "landslide": 1,
+      "co2": 28.43
+   },
+   "ZAF": {
+      "total": 95,
+      "flood": 53,
+      "id": "ZAF",
+      "storm": 38,
+      "earthquake": 4,
+      "co2": 18939.862999999994
+   },
+   "TZA": {
+      "total": 92,
+      "flood": 80,
+      "id": "TZA",
+      "earthquake": 9,
+      "storm": 3,
+      "co2": 237.824
+   },
+   "ITA": {
+      "total": 229,
+      "flood": 123,
+      "id": "ITA",
+      "earthquake": 58,
+      "storm": 48,
+      "co2": 22401.685999999994
+   },
+   "NEP": {
+      "total": 140,
+      "flood": 130,
+      "id": "NEP",
+      "extreme temperature ": 2,
+      "landslide": 8
+   },
+   "PHI": {
+      "total": 357,
+      "storm": 250,
+      "id": "PHI",
+      "flood": 98,
+      "earthquake": 9
+   },
+   "TAZ": {
+      "total": 57,
+      "storm": 3,
+      "id": "TAZ",
+      "flood": 51,
+      "earthquake": 3
+   },
+   "ETM": {
+      "total": 19,
+      "flood": 19,
+      "id": "ETM"
+   },
+   "UKG": {
+      "total": 23,
+      "flood": 13,
+      "id": "UKG",
+      "storm": 10
+   },
+   "VIE": {
+      "total": 201,
+      "storm": 71,
+      "id": "VIE",
+      "flood": 130
+   },
+   "BNG": {
+      "total": 160,
+      "storm": 51,
+      "id": "BNG",
+      "flood": 92,
+      "earthquake": 17
+   },
+   "NA": {
+      "total": 247,
+      "flood": 48,
+      "id": "NA",
+      "storm": 194,
+      "earthquake": 5
+   },
+   "CHN": {
+      "total": 1731,
+      "flood": 926,
+      "id": "CHN",
+      "storm": 604,
+      "earthquake": 200,
+      "landslide": 1,
+      "co2": 231261.562
+   },
+   "GUI": {
+      "total": 20,
+      "flood": 20,
+      "id": "GUI"
+   },
+   "HAI": {
+      "total": 64,
+      "flood": 37,
+      "id": "HAI",
+      "storm": 24,
+      "earthquake": 3
+   },
+   "MZM": {
+      "total": 83,
+      "flood": 69,
+      "id": "MZM",
+      "storm": 14
+   },
+   "IVO": {
+      "total": 8,
+      "flood": 8,
+      "id": "IVO"
+   },
+   "ETI": {
+      "total": 16,
+      "flood": 16,
+      "id": "ETI"
+   },
+   "FRN": {
+      "total": 41,
+      "storm": 19,
+      "id": "FRN",
+      "flood": 22
+   },
+   "GMY": {
+      "total": 22,
+      "flood": 8,
+      "id": "GMY",
+      "storm": 14
+   },
+   "IND": {
+      "total": 1658,
+      "flood": 1172,
+      "id": "IND",
+      "storm": 391,
+      "earthquake": 93,
+      "drought": 2,
+      "co2": 51692.350999999995
+   },
+   "INS": {
+      "total": 207,
+      "flood": 172,
+      "id": "INS",
+      "earthquake": 27,
+      "storm": 8
+   },
+   "AUS": {
+      "total": 372,
+      "storm": 98,
+      "id": "AUS",
+      "earthquake": 3,
+      "flood": 271,
+      "co2": 16669.662999999997
+   },
+   "MAG": {
+      "total": 37,
+      "storm": 31,
+      "id": "MAG",
+      "drought": 1,
+      "flood": 5
+   },
+   "MLI": {
+      "total": 84,
+      "flood": 84,
+      "id": "MLI",
+      "co2": 63.272000000000006
+   },
+   "MYA": {
+      "total": 84,
+      "flood": 69,
+      "id": "MYA",
+      "storm": 11,
+      "earthquake": 4
+   },
+   "NIR": {
+      "total": 68,
+      "flood": 68,
+      "id": "NIR"
+   },
+   "POL": {
+      "total": 52,
+      "storm": 17,
+      "id": "POL",
+      "flood": 34,
+      "earthquake": 1,
+      "co2": 20894.858000000004
+   },
+   "SEN": {
+      "total": 71,
+      "flood": 64,
+      "id": "SEN",
+      "storm": 7,
+      "co2": 242.557
+   },
+   "SAF": {
+      "total": 29,
+      "storm": 14,
+      "id": "SAF",
+      "flood": 14,
+      "earthquake": 1
+   },
+   "UGA": {
+      "total": 101,
+      "flood": 89,
+      "id": "UGA",
+      "earthquake": 7,
+      "landslide": 1,
+      "storm": 4,
+      "co2": 103.266
+   },
+   "BFO": {
+      "total": 36,
+      "flood": 36,
+      "id": "BFO"
+   },
+   "BOS": {
+      "total": 10,
+      "flood": 8,
+      "id": "BOS",
+      "storm": 2
+   },
+   "CAM": {
+      "total": 13,
+      "flood": 13,
+      "id": "CAM"
+   },
+   "AFG": {
+      "total": 366,
+      "flood": 261,
+      "id": "AFG",
+      "earthquake": 76,
+      "storm": 29,
+      "co2": 191.011
+   },
+   "DZA": {
+      "total": 215,
+      "flood": 178,
+      "id": "DZA",
+      "earthquake": 30,
+      "storm": 7,
+      "co2": 4533.872
+   },
+   "ARG": {
+      "total": 261,
+      "flood": 226,
+      "id": "ARG",
+      "earthquake": 5,
+      "storm": 30,
+      "co2": 7507.682000000002
+   },
+   "AUT": {
+      "total": 39,
+      "storm": 10,
+      "id": "AUT",
+      "flood": 28,
+      "earthquake": 1,
+      "co2": 3593.385000000002
+   },
+   "AZE": {
+      "total": 57,
+      "flood": 46,
+      "id": "AZE",
+      "earthquake": 11,
+      "co2": 2236.3239999999996
+   },
+   "BLR": {
+      "total": 34,
+      "flood": 20,
+      "id": "BLR",
+      "storm": 14,
+      "co2": 4345.835999999999
+   },
+   "BEN": {
+      "total": 78,
+      "flood": 77,
+      "id": "BEN",
+      "storm": 1,
+      "co2": 111.44
+   },
+   "BWA": {
+      "total": 16,
+      "flood": 15,
+      "id": "BWA",
+      "storm": 1,
+      "co2": 150.40100000000004
+   },
+   "BGR": {
+      "total": 121,
+      "flood": 104,
+      "id": "BGR",
+      "earthquake": 5,
+      "storm": 12,
+      "co2": 3597.5919999999987
+   },
+   "BFA": {
+      "total": 47,
+      "flood": 47,
+      "id": "BFA",
+      "co2": 64.31500000000001
+   },
+   "BDI": {
+      "total": 47,
+      "flood": 41,
+      "id": "BDI",
+      "storm": 5,
+      "earthquake": 1,
+      "co2": 12.926999999999998
+   },
+   "KHM": {
+      "total": 102,
+      "flood": 102,
+      "id": "KHM",
+      "co2": 157.438
+   },
+   "CMR": {
+      "total": 24,
+      "flood": 24,
+      "id": "CMR",
+      "co2": 212.76399999999995
+   },
+   "CAF": {
+      "total": 38,
+      "flood": 24,
+      "id": "CAF",
+      "storm": 14,
+      "co2": 10.448
+   },
+   "TCD": {
+      "total": 53,
+      "flood": 50,
+      "id": "TCD",
+      "storm": 3,
+      "co2": 25.994999999999997
+   },
+   "COL": {
+      "total": 449,
+      "earthquake": 44,
+      "id": "COL",
+      "storm": 14,
+      "flood": 391,
+      "co2": 3218.253999999999
+   },
+   "CRI": {
+      "total": 146,
+      "flood": 113,
+      "id": "CRI",
+      "earthquake": 22,
+      "storm": 11,
+      "co2": 251.11300000000006
+   },
+   "HRV": {
+      "total": 27,
+      "earthquake": 2,
+      "id": "HRV",
+      "flood": 25,
+      "co2": 1000.483
+   },
+   "CUB": {
+      "total": 178,
+      "storm": 118,
+      "id": "CUB",
+      "flood": 59,
+      "earthquake": 1,
+      "co2": 1522.4480000000003
+   },
+   "CZE": {
+      "total": 31,
+      "flood": 30,
+      "id": "CZE",
+      "storm": 1,
+      "co2": 8471.756
+   },
+   "ECU": {
+      "total": 168,
+      "flood": 151,
+      "id": "ECU",
+      "earthquake": 17,
+      "co2": 1165.976
+   },
+   "EGY": {
+      "total": 41,
+      "flood": 24,
+      "id": "EGY",
+      "storm": 13,
+      "earthquake": 4,
+      "co2": 6137.021999999999
+   },
+   "SLV": {
+      "total": 82,
+      "earthquake": 27,
+      "id": "SLV",
+      "flood": 31,
+      "storm": 24,
+      "co2": 227.217
+   },
+   "ERI": {
+      "total": 3,
+      "flood": 2,
+      "id": "ERI",
+      "storm": 1,
+      "co2": 17.826000000000004
+   },
+   "FJI": {
+      "total": 101,
+      "storm": 74,
+      "id": "FJI",
+      "flood": 26,
+      "earthquake": 1,
+      "co2": 47.786999999999985
+   },
+   "GEO": {
+      "total": 49,
+      "flood": 37,
+      "id": "GEO",
+      "earthquake": 8,
+      "storm": 4,
+      "co2": 576.766
+   },
+   "DEU": {
+      "total": 103,
+      "earthquake": 5,
+      "id": "DEU",
+      "flood": 47,
+      "storm": 51,
+      "co2": 57194.078
+   },
+   "GHA": {
+      "total": 75,
+      "flood": 74,
+      "id": "GHA",
+      "storm": 1,
+      "co2": 360.673
+   },
+   "GTM": {
+      "total": 149,
+      "earthquake": 33,
+      "id": "GTM",
+      "flood": 73,
+      "storm": 43,
+      "co2": 436.2400000000001
+   },
+   "GIN": {
+      "total": 15,
+      "flood": 13,
+      "id": "GIN",
+      "earthquake": 1,
+      "storm": 1,
+      "co2": 85.91000000000001
+   },
+   "HND": {
+      "total": 136,
+      "storm": 45,
+      "id": "HND",
+      "flood": 72,
+      "earthquake": 19,
+      "co2": 251.96699999999996
+   },
+   "IDN": {
+      "total": 683,
+      "earthquake": 173,
+      "id": "IDN",
+      "flood": 491,
+      "storm": 19,
+      "co2": 13656.059000000001
+   },
+   "IRN": {
+      "total": 416,
+      "flood": 227,
+      "id": "IRN",
+      "earthquake": 151,
+      "storm": 38,
+      "co2": 17826.463999999996
+   },
+   "IRQ": {
+      "total": 30,
+      "flood": 24,
+      "id": "IRQ",
+      "earthquake": 6,
+      "co2": 4485.280999999999
+   },
+   "JPN": {
+      "total": 411,
+      "earthquake": 69,
+      "id": "JPN",
+      "storm": 252,
+      "flood": 90,
+      "co2": 60101.650000000016
+   },
+   "KAZ": {
+      "total": 31,
+      "flood": 30,
+      "id": "KAZ",
+      "earthquake": 1,
+      "co2": 12560.064999999999
+   },
+   "KEN": {
+      "total": 278,
+      "flood": 276,
+      "id": "KEN",
+      "earthquake": 2,
+      "co2": 449.14
+   },
+   "PRK": {
+      "total": 113,
+      "flood": 93,
+      "id": "PRK",
+      "storm": 20,
+      "co2": 4820.288999999999
+   },
+   "KOR": {
+      "total": 98,
+      "flood": 73,
+      "id": "KOR",
+      "storm": 25,
+      "co2": 18261.078999999998
+   },
+   "KGZ": {
+      "total": 29,
+      "earthquake": 13,
+      "id": "KGZ",
+      "flood": 16,
+      "co2": 742.4849999999999
+   },
+   "LAO": {
+      "total": 97,
+      "flood": 91,
+      "id": "LAO",
+      "storm": 6,
+      "co2": 177.72600000000003
+   },
+   "LBN": {
+      "total": 3,
+      "storm": 2,
+      "id": "LBN",
+      "flood": 1,
+      "co2": 715.4769999999999
+   },
+   "LBR": {
+      "total": 10,
+      "flood": 10,
+      "id": "LBR",
+      "co2": 51.71900000000001
+   },
+   "LTU": {
+      "total": 5,
+      "flood": 5,
+      "id": "LTU",
+      "co2": 1348.8949999999995
+   },
+   "MDG": {
+      "total": 119,
+      "storm": 106,
+      "id": "MDG",
+      "flood": 13,
+      "co2": 93.65299999999999
+   },
+   "MYS": {
+      "total": 133,
+      "storm": 5,
+      "id": "MYS",
+      "flood": 126,
+      "earthquake": 2,
+      "co2": 5952.268999999999
+   },
+   "MRT": {
+      "total": 38,
+      "flood": 38,
+      "id": "MRT",
+      "co2": 75.601
+   },
+   "MEX": {
+      "total": 285,
+      "flood": 153,
+      "id": "MEX",
+      "earthquake": 54,
+      "storm": 78,
+      "co2": 18440.897
+   },
+   "MNG": {
+      "total": 18,
+      "flood": 16,
+      "id": "MNG",
+      "storm": 2,
+      "co2": 781.2460000000002
+   },
+   "MAR": {
+      "total": 80,
+      "flood": 75,
+      "id": "MAR",
+      "earthquake": 5,
+      "co2": 1695.7700000000002
+   },
+   "NAM": {
+      "total": 51,
+      "flood": 51,
+      "id": "NAM",
+      "co2": 76.03799999999998
+   },
+   "NLD": {
+      "total": 7,
+      "storm": 3,
+      "id": "NLD",
+      "earthquake": 1,
+      "flood": 3,
+      "co2": 9317.100000000002
+   },
+   "NZL": {
+      "total": 66,
+      "flood": 51,
+      "id": "NZL",
+      "earthquake": 10,
+      "storm": 5,
+      "co2": 1547.1329999999996
+   },
+   "NIC": {
+      "total": 98,
+      "storm": 26,
+      "id": "NIC",
+      "flood": 69,
+      "earthquake": 3,
+      "co2": 173.818
+   },
+   "NER": {
+      "total": 51,
+      "flood": 50,
+      "id": "NER",
+      "storm": 1,
+      "co2": 46.474999999999994
+   },
+   "NGA": {
+      "total": 124,
+      "flood": 122,
+      "id": "NGA",
+      "storm": 2,
+      "co2": 3857.963
+   },
+   "PAN": {
+      "total": 110,
+      "storm": 13,
+      "id": "PAN",
+      "earthquake": 7,
+      "flood": 90,
+      "co2": 301.99399999999997
+   },
+   "PNG": {
+      "total": 54,
+      "flood": 34,
+      "id": "PNG",
+      "earthquake": 16,
+      "storm": 4,
+      "co2": 168.39599999999996
+   },
+   "PRY": {
+      "total": 56,
+      "storm": 30,
+      "id": "PRY",
+      "flood": 26,
+      "co2": 176.249
+   },
+   "PRT": {
+      "total": 38,
+      "flood": 32,
+      "id": "PRT",
+      "storm": 6,
+      "co2": 2344.8030000000003
+   },
+   "ROU": {
+      "total": 230,
+      "earthquake": 6,
+      "id": "ROU",
+      "flood": 205,
+      "storm": 19,
+      "co2": 7438.633000000002
+   },
+   "RUS": {
+      "total": 233,
+      "earthquake": 17,
+      "id": "RUS",
+      "flood": 171,
+      "storm": 45,
+      "co2": 102955.254
+   },
+   "SRB": {
+      "total": 60,
+      "flood": 53,
+      "id": "SRB",
+      "earthquake": 7,
+      "co2": 2524.041
+   },
+   "SLE": {
+      "total": 4,
+      "flood": 4,
+      "id": "SLE",
+      "co2": 34.17699999999999
+   },
+   "SVK": {
+      "total": 18,
+      "flood": 16,
+      "id": "SVK",
+      "storm": 2,
+      "co2": 2763.7419999999993
+   },
+   "SVN": {
+      "total": 16,
+      "earthquake": 7,
+      "id": "SVN",
+      "storm": 4,
+      "flood": 5,
+      "co2": 791.3789999999998
+   },
+   "SLB": {
+      "total": 51,
+      "earthquake": 12,
+      "id": "SLB",
+      "storm": 23,
+      "flood": 16,
+      "co2": 10.370999999999999
+   },
+   "SOM": {
+      "total": 102,
+      "flood": 89,
+      "id": "SOM",
+      "earthquake": 5,
+      "storm": 8,
+      "co2": 32.27100000000001
+   },
+   "UZB": {
+      "total": 7,
+      "earthquake": 5,
+      "id": "UZB",
+      "flood": 2,
+      "co2": 5771.708
+   },
+   "ESP": {
+      "total": 73,
+      "flood": 50,
+      "id": "ESP",
+      "storm": 21,
+      "earthquake": 2,
+      "co2": 13296.730999999996
+   },
+   "LKA": {
+      "total": 319,
+      "flood": 290,
+      "id": "LKA",
+      "storm": 15,
+      "earthquake": 14,
+      "co2": 481.91499999999985
+   },
+   "SDN": {
+      "total": 172,
+      "flood": 169,
+      "id": "SDN",
+      "storm": 1,
+      "earthquake": 2,
+      "co2": 437.616
+   },
+   "SUR": {
+      "total": 15,
+      "flood": 15,
+      "id": "SUR",
+      "co2": 112.13200000000002
+   },
+   "SWE": {
+      "total": 3,
+      "flood": 3,
+      "id": "SWE",
+      "co2": 3710.491000000001
+   },
+   "CHE": {
+      "total": 12,
+      "flood": 8,
+      "id": "CHE",
+      "storm": 4,
+      "co2": 2421.876000000001
+   },
+   "TWN": {
+      "total": 53,
+      "flood": 14,
+      "id": "TWN",
+      "storm": 32,
+      "earthquake": 7,
+      "co2": 8820.971
+   },
+   "TJK": {
+      "total": 100,
+      "flood": 85,
+      "id": "TJK",
+      "earthquake": 15,
+      "co2": 420.6670000000001
+   },
+   "THA": {
+      "total": 563,
+      "flood": 474,
+      "id": "THA",
+      "storm": 66,
+      "earthquake": 23,
+      "co2": 7342.456
+   },
+   "TLS": {
+      "total": 11,
+      "flood": 10,
+      "id": "TLS",
+      "storm": 1,
+      "co2": 6.542000000000001
+   },
+   "TGO": {
+      "total": 13,
+      "flood": 13,
+      "id": "TGO",
+      "co2": 65.742
+   },
+   "TUR": {
+      "total": 267,
+      "earthquake": 97,
+      "id": "TUR",
+      "flood": 78,
+      "storm": 92,
+      "co2": 10531.721999999998
+   },
+   "UKR": {
+      "total": 73,
+      "flood": 54,
+      "id": "UKR",
+      "storm": 19,
+      "co2": 26627.536000000007
+   },
+   "GBR": {
+      "total": 240,
+      "earthquake": 4,
+      "id": "GBR",
+      "flood": 215,
+      "storm": 21,
+      "co2": 34009.676999999996
+   },
+   "USA": {
+      "total": 3145,
+      "flood": 683,
+      "id": "USA",
+      "storm": 2430,
+      "earthquake": 32,
+      "co2": 300463.0189999999
+   },
+   "VEN": {
+      "total": 105,
+      "flood": 93,
+      "id": "VEN",
+      "earthquake": 9,
+      "storm": 3,
+      "co2": 7018.101999999999
+   },
+   "YEM": {
+      "total": 97,
+      "flood": 79,
+      "id": "YEM",
+      "storm": 16,
+      "earthquake": 2,
+      "co2": 607.7130000000001
+   },
+   "COD": {
+      "total": 25,
+      "flood": 19,
+      "id": "COD",
+      "earthquake": 2,
+      "storm": 4,
+      "co2": 162.09499999999997
+   },
+   "ZMB": {
+      "total": 45,
+      "flood": 45,
+      "id": "ZMB",
+      "co2": 211.79699999999997
+   },
+   "ZWE": {
+      "total": 22,
+      "flood": 20,
+      "id": "ZWE",
+      "storm": 2,
+      "co2": 636.4090000000001
+   },
+   "VNM": {
+      "total": 591,
+      "storm": 298,
+      "id": "VNM",
+      "flood": 293,
+      "co2": 3808.288999999999
+   },
+   "AUL": {
+      "total": 97,
+      "storm": 69,
+      "id": "AUL",
+      "flood": 28
+   },
+   "NIG": {
+      "total": 81,
+      "flood": 70,
+      "id": "NIG",
+      "storm": 11
+   },
+   "SUD": {
+      "total": 5,
+      "flood": 5,
+      "id": "SUD"
+   },
+   "POR": {
+      "total": 11,
+      "earthquake": 4,
+      "id": "POR",
+      "flood": 4,
+      "storm": 3
+   },
+   "TAJ": {
+      "total": 28,
+      "flood": 23,
+      "id": "TAJ",
+      "earthquake": 5
+   },
+   "THI": {
+      "total": 157,
+      "flood": 142,
+      "id": "THI",
+      "storm": 15
+   },
+   "TOG": {
+      "total": 22,
+      "flood": 22,
+      "id": "TOG"
+   },
+   "ZAI": {
+      "total": 20,
+      "storm": 2,
+      "id": "ZAI",
+      "flood": 15,
+      "earthquake": 3
+   },
+   "ZAM": {
+      "total": 26,
+      "flood": 26,
+      "id": "ZAM"
+   },
+   "ZIM": {
+      "total": 59,
+      "flood": 14,
+      "id": "ZIM",
+      "storm": 45
+   },
+   "BOT": {
+      "total": 20,
+      "flood": 20,
+      "id": "BOT"
+   },
+   "ALG": {
+      "total": 14,
+      "storm": 6,
+      "id": "ALG",
+      "flood": 8
+   },
+   "SPN": {
+      "total": 24,
+      "storm": 4,
+      "id": "SPN",
+      "flood": 20
+   },
+   "CHA": {
+      "total": 1,
+      "flood": 1,
+      "id": "CHA"
+   },
+   "ANG": {
+      "total": 46,
+      "flood": 46,
+      "id": "ANG"
+   },
+   "CRO": {
+      "total": 13,
+      "storm": 8,
+      "id": "CRO",
+      "flood": 5
+   },
+   "HON": {
+      "total": 74,
+      "flood": 59,
+      "id": "HON",
+      "storm": 15
+   },
+   "KZK": {
+      "total": 22,
+      "flood": 22,
+      "id": "KZK"
+   },
+   "LEB": {
+      "total": 9,
+      "flood": 2,
+      "id": "LEB",
+      "storm": 7
+   },
+   "MAW": {
+      "total": 70,
+      "flood": 69,
+      "id": "MAW",
+      "storm": 1
+   },
+   "MAL": {
+      "total": 80,
+      "flood": 76,
+      "id": "MAL",
+      "storm": 4
+   },
+   "MON": {
+      "total": 78,
+      "storm": 67,
+      "id": "MON",
+      "flood": 11
+   },
+   "COS": {
+      "total": 15,
+      "storm": 10,
+      "id": "COS",
+      "flood": 5
+   },
+   "DOM": {
+      "total": 137,
+      "flood": 75,
+      "id": "DOM",
+      "storm": 62,
+      "co2": 740.0110000000001
+   },
+   "SAL": {
+      "total": 30,
+      "earthquake": 2,
+      "id": "SAL",
+      "flood": 26,
+      "storm": 2
+   },
+   "GUA": {
+      "total": 51,
+      "flood": 42,
+      "id": "GUA",
+      "storm": 4,
+      "earthquake": 5
+   },
+   "GNB": {
+      "total": 11,
+      "storm": 7,
+      "id": "GNB",
+      "flood": 4,
+      "co2": 9.999000000000002
+   },
+   "GUY": {
+      "total": 27,
+      "flood": 27,
+      "id": "GUY",
+      "co2": 96.17299999999996
+   },
+   "HUN": {
+      "total": 29,
+      "storm": 5,
+      "id": "HUN",
+      "flood": 23,
+      "earthquake": 1,
+      "co2": 3933.7109999999993
+   },
+   "ROK": {
+      "total": 13,
+      "storm": 7,
+      "id": "ROK",
+      "earthquake": 2,
+      "flood": 4
+   },
+   "KYR": {
+      "total": 9,
+      "earthquake": 7,
+      "id": "KYR",
+      "storm": 2
+   },
+   "MAA": {
+      "total": 10,
+      "storm": 2,
+      "id": "MAA",
+      "flood": 8
+   },
+   "NTH": {
+      "total": 4,
+      "storm": 4,
+      "id": "NTH"
+   },
+   "NEW": {
+      "total": 26,
+      "earthquake": 2,
+      "id": "NEW",
+      "flood": 14,
+      "storm": 10
+   },
+   "OMA": {
+      "total": 11,
+      "flood": 6,
+      "id": "OMA",
+      "storm": 5
+   },
+   "RUM": {
+      "total": 42,
+      "flood": 30,
+      "id": "RUM",
+      "storm": 12
+   },
+   "KOS": {
+      "total": 3,
+      "flood": 3,
+      "id": "KOS"
+   },
+   "SER": {
+      "total": 5,
+      "flood": 5,
+      "id": "SER"
+   },
+   "SLO": {
+      "total": 2,
+      "storm": 2,
+      "id": "SLO"
+   },
+   "SSU": {
+      "total": 5,
+      "flood": 5,
+      "id": "SSU"
+   },
+   "SWZ": {
+      "total": 23,
+      "storm": 12,
+      "id": "SWZ",
+      "": 1,
+      "flood": 10,
+      "co2": 40.653
+   },
+   "TAW": {
+      "total": 17,
+      "flood": 9,
+      "id": "TAW",
+      "earthquake": 3,
+      "storm": 5
+   },
+   "UAE": {
+      "total": 3,
+      "flood": 3,
+      "id": "UAE"
+   },
+   "CEN": {
+      "total": 17,
+      "storm": 10,
+      "id": "CEN",
+      "flood": 7
+   },
+   "PAR": {
+      "total": 32,
+      "flood": 32,
+      "id": "PAR"
+   },
+   "SIE": {
+      "total": 6,
+      "flood": 6,
+      "id": "SIE"
+   },
+   "BUL": {
+      "total": 24,
+      "flood": 16,
+      "id": "BUL",
+      "storm": 8
+   },
+   "BUI": {
+      "total": 21,
+      "flood": 20,
+      "id": "BUI",
+      "storm": 1
+   },
+   "YGS": {
+      "total": 12,
+      "flood": 5,
+      "id": "YGS",
+      "storm": 5,
+      "extreme temperature ": 2
+   },
+   "CAO": {
+      "total": 6,
+      "flood": 5,
+      "id": "CAO",
+      "landslide": 1
+   },
+   "ATG": {
+      "total": 7,
+      "storm": 7,
+      "id": "ATG",
+      "co2": 21.448
+   },
+   "ARM": {
+      "total": 12,
+      "flood": 7,
+      "id": "ARM",
+      "earthquake": 3,
+      "storm": 2,
+      "co2": 337.2089999999999
+   },
+   "BHS": {
+      "total": 93,
+      "storm": 92,
+      "id": "BHS",
+      "flood": 1,
+      "co2": 168.275
+   },
+   "BRB": {
+      "total": 17,
+      "flood": 11,
+      "id": "BRB",
+      "earthquake": 1,
+      "storm": 5,
+      "co2": 53.645000000000024
+   },
+   "BLZ": {
+      "total": 18,
+      "storm": 14,
+      "id": "BLZ",
+      "flood": 4,
+      "co2": 18.767
+   },
+   "BTN": {
+      "total": 7,
+      "flood": 3,
+      "id": "BTN",
+      "earthquake": 4,
+      "co2": 19.191000000000003
+   },
+   "CPV": {
+      "total": 13,
+      "storm": 13,
+      "id": "CPV",
+      "co2": 12.932
+   },
+   "COM": {
+      "total": 6,
+      "flood": 6,
+      "id": "COM",
+      "co2": 5.29
+   },
+   "COG": {
+      "total": 11,
+      "flood": 10,
+      "id": "COG",
+      "earthquake": 1,
+      "co2": 78.29199999999999
+   },
+   "CIV": {
+      "total": 7,
+      "flood": 7,
+      "id": "CIV",
+      "co2": 332.88800000000003
+   },
+   "DJI": {
+      "total": 9,
+      "flood": 9,
+      "id": "DJI",
+      "co2": 18.587999999999994
+   },
+   "FIN": {
+      "total": 1,
+      "flood": 1,
+      "id": "FIN",
+      "co2": 2974.5860000000002
+   },
+   "GAB": {
+      "total": 11,
+      "storm": 7,
+      "id": "GAB",
+      "flood": 4,
+      "co2": 258.386
+   },
+   "GMB": {
+      "total": 12,
+      "flood": 7,
+      "id": "GMB",
+      "storm": 5,
+      "co2": 13.801000000000002
+   },
+   "GRD": {
+      "total": 5,
+      "storm": 5,
+      "id": "GRD",
+      "co2": 8.150000000000002
+   },
+   "ISL": {
+      "total": 5,
+      "earthquake": 4,
+      "id": "ISL",
+      "flood": 1,
+      "co2": 142.637
+   },
+   "IRL": {
+      "total": 22,
+      "flood": 19,
+      "id": "IRL",
+      "storm": 3,
+      "co2": 1897.2069999999999
+   },
+   "ISR": {
+      "total": 12,
+      "flood": 4,
+      "id": "ISR",
+      "storm": 8,
+      "co2": 2335.5719999999997
+   },
+   "JAM": {
+      "total": 46,
+      "flood": 36,
+      "id": "JAM",
+      "storm": 10,
+      "co2": 443.049
+   },
+   "JOR": {
+      "total": 7,
+      "flood": 7,
+      "id": "JOR",
+      "co2": 697.8050000000002
+   },
+   "KWT": {
+      "total": 1,
+      "flood": 1,
+      "id": "KWT",
+      "co2": 2852.4309999999996
+   },
+   "LSO": {
+      "total": 7,
+      "flood": 7,
+      "id": "LSO",
+      "co2": 63.980999999999995
+   },
+   "LBY": {
+      "total": 2,
+      "flood": 2,
+      "id": "LBY",
+      "co2": 2133.408
+   },
+   "MKD": {
+      "total": 110,
+      "flood": 73,
+      "id": "MKD",
+      "earthquake": 37,
+      "co2": 583.2080000000001
+   },
+   "MWI": {
+      "total": 114,
+      "earthquake": 3,
+      "id": "MWI",
+      "flood": 111,
+      "co2": 47.05599999999999
+   },
+   "MUS": {
+      "total": 2,
+      "flood": 1,
+      "id": "MUS",
+      "storm": 1,
+      "co2": 113.86799999999998
+   },
+   "MDA": {
+      "total": 31,
+      "flood": 30,
+      "id": "MDA",
+      "storm": 1,
+      "co2": 1161.0989999999997
+   },
+   "MNE": {
+      "total": 58,
+      "flood": 57,
+      "id": "MNE",
+      "earthquake": 1,
+      "co2": 96.48199999999999
+   },
+   "NOR": {
+      "total": 5,
+      "flood": 5,
+      "id": "NOR",
+      "co2": 2117.651
+   },
+   "PRI": {
+      "total": 19,
+      "flood": 15,
+      "id": "PRI",
+      "storm": 4
+   },
+   "240": {
+      "total": 2,
+      "storm": 1,
+      "id": "240",
+      "flood": 1
+   },
+   "WSM": {
+      "total": 63,
+      "storm": 61,
+      "id": "WSM",
+      "flood": 2,
+      "co2": 6.690999999999999
+   },
+   "SAU": {
+      "total": 44,
+      "flood": 43,
+      "id": "SAU",
+      "storm": 1,
+      "co2": 15798.796
+   },
+   "SYC": {
+      "total": 77,
+      "flood": 32,
+      "id": "SYC",
+      "storm": 29,
+      "earthquake": 16,
+      "co2": 13.377
+   },
+   "TKM": {
+      "total": 2,
+      "earthquake": 2,
+      "id": "TKM",
+      "co2": 2265.2980000000002
+   },
+   "SYR": {
+      "total": 6,
+      "flood": 5,
+      "id": "SYR",
+      "storm": 1,
+      "co2": 1855.014
+   },
+   "TTO": {
+      "total": 1,
+      "flood": 1,
+      "id": "TTO",
+      "co2": 1351.834
+   },
+   "TUN": {
+      "total": 67,
+      "flood": 67,
+      "id": "TUN",
+      "co2": 885.4960000000001
+   },
+   "TUV": {
+      "total": 16,
+      "storm": 16,
+      "id": "TUV",
+      "co2": 0.27600000000000013
+   },
+   "URY": {
+      "total": 56,
+      "flood": 44,
+      "id": "URY",
+      "storm": 12,
+      "co2": 333.3980000000001
+   },
+   "VUT": {
+      "total": 53,
+      "storm": 43,
+      "id": "VUT",
+      "earthquake": 8,
+      "flood": 2,
+      "co2": 4.751000000000002
+   },
+   "SSD": {
+      "total": 8,
+      "flood": 8,
+      "id": "SSD",
+      "co2": 37.577000000000005
+   },
+   "LCA": {
+      "total": 9,
+      "storm": 1,
+      "id": "LCA",
+      "earthquake": 3,
+      "flood": 5,
+      "co2": 14.270000000000003
+   },
+   "VCT": {
+      "total": 7,
+      "flood": 6,
+      "id": "VCT",
+      "storm": 1,
+      "co2": 6.891000000000001
+   },
+   "EST": {
+      "total": 1,
+      "storm": 1,
+      "id": "EST",
+      "co2": 1425.580999999999
+   },
+   "PLW": {
+      "total": 2,
+      "storm": 2,
+      "id": "PLW",
+      "co2": 10.5
+   },
+   "PKS": {
+      "total": 4,
+      "flood": 4,
+      "id": "PKS"
+   },
+   "SOL": {
+      "total": 8,
+      "storm": 5,
+      "id": "SOL",
+      "earthquake": 3
+   },
+   "SRI": {
+      "total": 53,
+      "flood": 46,
+      "id": "SRI",
+      "storm": 7
+   },
+   "SWA": {
+      "total": 4,
+      "flood": 4,
+      "id": "SWA"
+   },
+   "URU": {
+      "total": 45,
+      "flood": 45,
+      "id": "URU"
+   },
+   "CAP": {
+      "total": 2,
+      "flood": 2,
+      "id": "CAP"
+   },
+   "CON": {
+      "total": 2,
+      "flood": 2,
+      "id": "CON"
+   },
+   "CZR": {
+      "total": 3,
+      "storm": 3,
+      "id": "CZR"
+   },
+   "GAM": {
+      "total": 2,
+      "flood": 2,
+      "id": "GAM"
+   },
+   "GRG": {
+      "total": 2,
+      "storm": 1,
+      "id": "GRG",
+      "flood": 1
+   },
+   "IRE": {
+      "total": 11,
+      "storm": 10,
+      "id": "IRE",
+      "flood": 1
+   },
+   "LES": {
+      "total": 3,
+      "flood": 1,
+      "id": "LES",
+      "storm": 2
+   },
+   "LIB": {
+      "total": 1,
+      "flood": 1,
+      "id": "LIB"
+   },
+   "MAC": {
+      "total": 8,
+      "flood": 7,
+      "id": "MAC",
+      "earthquake": 1
+   },
+   "MAS": {
+      "total": 9,
+      "storm": 9,
+      "id": "MAS"
+   },
+   "MLD": {
+      "total": 2,
+      "flood": 2,
+      "id": "MLD"
+   },
+   "MOR": {
+      "total": 4,
+      "flood": 4,
+      "id": "MOR"
+   },
+   "TRI": {
+      "total": 4,
+      "flood": 4,
+      "id": "TRI"
+   },
+   "QAT": {
+      "total": 1,
+      "flood": 1,
+      "id": "QAT",
+      "co2": 2090.818
+   },
+   "YPR": {
+      "total": 1,
+      "flood": 1,
+      "id": "YPR"
+   },
+   "AND": {
+      "co2": 15.071999999999996,
+      "id": "AND"
+   },
+   "AIA": {
+      "co2": 3.4209999999999994,
+      "id": "AIA"
+   },
+   "ATA": {
+      "co2": 0.15700000000000006,
+      "id": "ATA"
+   },
+   "ABW": {
+      "co2": 65.87500000000001,
+      "id": "ABW"
+   },
+   "BHR": {
+      "co2": 868.51,
+      "id": "BHR"
+   },
+   "BMU": {
+      "co2": 28.158999999999992,
+      "id": "BMU"
+   },
+   "BES": {
+      "co2": 22.618000000000002,
+      "id": "BES"
+   },
+   "VGB": {
+      "co2": 5.504,
+      "id": "VGB"
+   },
+   "BRN": {
+      "co2": 324.586,
+      "id": "BRN"
+   },
+   "CXR": {
+      "co2": 1.333,
+      "id": "CXR"
+   },
+   "COK": {
+      "co2": 2.198000000000001,
+      "id": "COK"
+   },
+   "CUW": {
+      "co2": 414.36999999999995,
+      "id": "CUW"
+   },
+   "CYP": {
+      "co2": 287.81499999999994,
+      "id": "CYP"
+   },
+   "DNK": {
+      "co2": 3162.3760000000007,
+      "id": "DNK"
+   },
+   "DMA": {
+      "co2": 4.765999999999999,
+      "id": "DMA"
+   },
+   "GNQ": {
+      "co2": 179.20100000000002,
+      "id": "GNQ"
+   },
+   "FRO": {
+      "co2": 29.81600000000001,
+      "id": "FRO"
+   },
+   "GUF": {
+      "co2": 27.351000000000006,
+      "id": "GUF"
+   },
+   "PYF": {
+      "co2": 28.560999999999996,
+      "id": "PYF"
+   },
+   "GRL": {
+      "co2": 31.551999999999992,
+      "id": "GRL"
+   },
+   "GLP": {
+      "co2": 82.95,
+      "id": "GLP"
+   },
+   "HKG": {
+      "co2": 1600.676,
+      "id": "HKG"
+   },
+   "KIR": {
+      "co2": 2.084,
+      "id": "KIR"
+   },
+   "OWID_KOS": {
+      "co2": 105.63699999999999,
+      "id": "OWID_KOS"
+   },
+   "LVA": {
+      "co2": 815.541,
+      "id": "LVA"
+   },
+   "LIE": {
+      "co2": 6.109,
+      "id": "LIE"
+   },
+   "LUX": {
+      "co2": 658.6089999999996,
+      "id": "LUX"
+   },
+   "MDV": {
+      "co2": 24.912999999999997,
+      "id": "MDV"
+   },
+   "MLT": {
+      "co2": 101.63899999999997,
+      "id": "MLT"
+   },
+   "MHL": {
+      "co2": 3.4189999999999996,
+      "id": "MHL"
+   },
+   "MTQ": {
+      "co2": 87.161,
+      "id": "MTQ"
+   },
+   "MYT": {
+      "co2": 6.518000000000001,
+      "id": "MYT"
+   },
+   "MSR": {
+      "co2": 1.6190000000000004,
+      "id": "MSR"
+   },
+   "NRU": {
+      "co2": 4.866999999999998,
+      "id": "NRU"
+   },
+   "NCL": {
+      "co2": 150.85200000000003,
+      "id": "NCL"
+   },
+   "NIU": {
+      "co2": 0.2920000000000002,
+      "id": "NIU"
+   },
+   "OMN": {
+      "co2": 1251.112,
+      "id": "OMN"
+   },
+   "PSE": {
+      "co2": 59.437999999999995,
+      "id": "PSE"
+   },
+   "SHN": {
+      "co2": 0.38000000000000017,
+      "id": "SHN"
+   },
+   "KNA": {
+      "co2": 6.341000000000001,
+      "id": "KNA"
+   },
+   "SPM": {
+      "co2": 3.3679999999999994,
+      "id": "SPM"
+   },
+   "STP": {
+      "co2": 3.313000000000001,
+      "id": "STP"
+   },
+   "SGP": {
+      "co2": 2127.619,
+      "id": "SGP"
+   },
+   "SXM": {
+      "co2": 50.421,
+      "id": "SXM"
+   },
+   "TON": {
+      "co2": 4.316000000000001,
+      "id": "TON"
+   },
+   "TCA": {
+      "co2": 3.9319999999999995,
+      "id": "TCA"
+   },
+   "ARE": {
+      "co2": 4695.466999999999,
+      "id": "ARE"
+   },
+   "OWID_WRL": {
+      "co2": 1399096.2939999998,
+      "id": "OWID_WRL"
+   }
+}
