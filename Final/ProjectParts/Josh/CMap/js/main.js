@@ -43,7 +43,7 @@ d3.json("ProjectParts/Josh/CMap/data/cmapdata.json")
   .attr('text-anchor', 'middle')
   .style('font-family', 'sans-serif')
   .style('font-size', 20)
-  .text('Tons of CO2 Emmited per Country');
+  .text("Tons of CO2 Emmited per Country");
 
   const legend = d3.legendColor()
     .labelFormat(d3.format(".0f"))
@@ -60,6 +60,12 @@ d3.json("ProjectParts/Josh/CMap/data/cmapdata.json")
     .attr("class", "legend")
     .attr("transform", "translate(" + (width+50 ) + ",50)")
     .call(legend);
+  
+  svg.append("text")
+  .attr("transform", "translate(" + (width-250) + ",365)")
+  .text("Countries with most disasters have black borders")
+  .attr("font-size", "12px")
+
 
   
   cMap = svg.append("g");
@@ -93,8 +99,25 @@ d3.json("ProjectParts/Josh/CMap/data/cmapdata.json")
     //   })
       var update = (year) => {
 
-        console.log(year);
-        console.log(dictdata.get(year));
+        //get countries with highest total disasters
+        // console.log(dictdata.get(year));
+        q = dictdata.get(year)
+        var sortCountries = [];
+        // console.log(q);
+        //iterate over q.entries() and push the countries with highest total disasters to sortCountries
+        q.forEach((key, value) => {
+          //sort countries by highest total disasters
+          if (value == 'id') return;
+          sortCountries.push([key.total, value])
+
+        })
+        sortCountries.sort(function(a, b) {
+          return b[1] - a[1];
+        })
+        // console.log(sortCountries);
+        //remove all but first 10 countries
+        sortCountries = sortCountries.splice(0, 10)
+        // console.log(sortCountries);
         cMap.selectAll('path').remove()
         cMap.selectAll('path')
           .data(topo.features)
@@ -112,6 +135,19 @@ d3.json("ProjectParts/Josh/CMap/data/cmapdata.json")
           }
           return colorScale(color);
         })
+        .attr('stroke', d => {
+          for(s of sortCountries){
+            // console.log(d.id);
+            // console.log(s[0]);
+            if(s[1] == d.id){
+              console.log('yes');
+              return 'black'
+
+            }
+          }
+          return 'none'
+        })
+        .attr('stroke-width', 2)
         .append('title')
         .text(function (d) {
           if(dictdata.has(year)){
@@ -130,7 +166,7 @@ d3.json("ProjectParts/Josh/CMap/data/cmapdata.json")
           }
           return d.total;
         })
-        .attr("class","round_corners")
+        
       }
       update(2000)//d3.select('#year-slider').value)
       d3.select('#year-slider').on('input', function() {
